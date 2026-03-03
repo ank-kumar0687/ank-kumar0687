@@ -1,6 +1,10 @@
 # 💫 About Me:
  Hi there 👋 I'm Ankit Kumar<br><br>🎓 MCA Student  <br>📊 Aspiring Data Analyst | Programmer  <br>💻 Skilled in SQL, Python, Excel, Power BI  <br>🌱 Currently learning Data Analytics & MERN Stack  <br>🚀 Passionate about solving real-world problems using data  <br><br> 🛠 Skills<br>- SQL | Python | PHP  <br>- Microsoft Excel | Power BI  <br>- Basic MERN Stack  <br>- Data Analysis & Visualization  <br><br> 📈 Projects<br>- Employee Management System (SQL Based)<br>- AI-Powered Crop Health Monitoring System<br>- Student Placement Data Analysis<br><br>📫 Reach me at: ankitraj0687@gmail.com
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit_vats0687) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-3449063b3?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitraj0687@gmail.com) 
